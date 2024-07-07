@@ -28,11 +28,8 @@ git clone https://github.com/GUG-2005/CS50-Final-Project.git
 After download, go to `cmd` and navigate to the project folder directory.
 ```
 cd CS50P-Final-Project
-``` 
-Use [pip](https://pip.pypa.io/en/stable/) to install needed libraries.
 ```
-$ pip install -r requirements.txt
-```
+Required modules are time module with the use of regex make sure these are installed.
 #### Usage
 Run the program python script `project.py` with [python](https://www.python.org/).
 ```
